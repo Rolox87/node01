@@ -1,0 +1,16 @@
+[
+  {
+    "Nombre": "cachupin",
+    "Edad": "3 años",
+    "Animal": "perro",
+    "Color": "cafe",
+    "Enfermedad": "resfriado"
+  },
+  {
+    "Nombre": "tita",
+    "Edad": "5 años",
+    "Animal": "gato",
+    "Color": "amarillo",
+    "Enfermedad": "decaido"
+  }
+]
